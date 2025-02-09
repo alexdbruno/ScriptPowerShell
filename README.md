@@ -7,21 +7,21 @@ Este repositório tem como objetivo compartilhar um conjunto de scripts que fora
 
 A seguir, estão os principais tópicos que você encontrará neste repositório:
 
-💻 Administração de Active Directory Scripts focados em gerenciamento de usuários, grupos, unidades organizacionais e políticas de segurança, com ênfase em automação de tarefas recorrentes e monitoramento de eventos de segurança.
+💻 Administração de Active Directory: Scripts focados em gerenciamento de usuários, grupos, unidades organizacionais e políticas de segurança, com ênfase em automação de tarefas recorrentes e monitoramento de eventos de segurança.
 
-🔐 Integração com Azure Active Directory Soluções para facilitar a conexão e integração com o Azure AD, automatizando o provisionamento, desprovisionamento e gerenciamento de identidades, tanto em ambientes locais como híbridos.
+🔐 Integrações do Entra ID para facilitar a conexão e integração com o Active Directory, automatizando o provisionamento, desprovisionamento e gerenciamento de identidades, tanto em ambientes locais como híbridos.
 
-💾 Automação de Backup e Recuperação Scripts voltados para a automação de backups e processos de recuperação de desastres, com foco na integridade dos dados e minimização de falhas durante a restauração de sistemas.
+💾 Automação de Backup e Recuperação: Scripts voltados para a automação de backups e processos de recuperação de desastres, com foco na integridade dos dados e minimização de falhas durante a restauração de sistemas.
 
-📊 Monitoramento e Performance de Infraestrutura Soluções para monitoramento detalhado de servidores, serviços e aplicações, com foco na coleta de métricas de desempenho e identificação de possíveis gargalos.
+📊 Monitoramento e Performance de Infraestrutura: Soluções para monitoramento detalhado de servidores, serviços e aplicações, com foco na coleta de métricas de desempenho e identificação de possíveis gargalos.
 
-🔧 Integração com Ferramentas de Terceiros Automação de interações com soluções de segurança, ferramentas de monitoramento e sistemas de colaboração, promovendo uma integração eficaz com o ecossistema corporativo.
+🔧 Integração com Ferramentas de Terceiros: Automação de interações com soluções de segurança, ferramentas de monitoramento e sistemas de colaboração, promovendo uma integração eficaz com o ecossistema corporativo.
 
-🔒 Gestão de Configurações e Políticas de Segurança Automação de configurações de sistemas e estações de trabalho, com foco na aplicação de políticas de segurança e conformidade com regulamentações de TI.
+🔒 Gestão de Configurações e Políticas de Segurança: Automação de configurações de sistemas e estações de trabalho, com foco na aplicação de políticas de segurança e conformidade com regulamentações de TI.
 
-📈 Análises Avançadas e Relatórios Customizados Geração de relatórios detalhados sobre o estado da infraestrutura, auditorias de segurança e insights baseados em dados históricos para otimização contínua da infraestrutura de TI.
+📈 Análises Avançadas e Relatórios Customizados: Geração de relatórios detalhados sobre o estado da infraestrutura, auditorias de segurança e insights baseados em dados históricos para otimização contínua da infraestrutura de TI.
 
-🔄 Soluções de Automação para DevOps Integração do PowerShell com pipelines de CI/CD, automação de tarefas para administração de containers e integração com provedores de nuvem para garantir a eficiência operacional no ciclo de vida do desenvolvimento.
+🔄 Soluções de Automação para DevOps: Integração do PowerShell com pipelines de CI/CD, automação de tarefas para administração de containers e integração com provedores de nuvem para garantir a eficiência operacional no ciclo de vida do desenvolvimento.
 
 Conclusão e Contribuições:
 
